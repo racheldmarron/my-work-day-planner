@@ -1,6 +1,7 @@
 ## My Work Day Planner 
 
 ## Link to Deployed Assets
+https://racheldmarron.github.io/my-work-day-planner/
 
 ## Overview 
 I created a simple calendar application that allows a user to save events for each hour of the work day by modifying starter code. This ap features dynamically updated HTML and CSS powered by jQuery.

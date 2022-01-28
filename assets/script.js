@@ -30,6 +30,8 @@ saveBtn.on("click", function() {
 
 function saveInput() {
 
+    console.log(saveInput); 
+
     $(".hour").each(function() {
         var currentHour = $(this).text();
         var currData = localStorage.getItem(currentHour);
@@ -42,3 +44,4 @@ function saveInput() {
 
 timeBlock();
 saveInput();
+
